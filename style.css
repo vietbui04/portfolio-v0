@@ -19,3 +19,7 @@ header {
 p {
   color: #0ea5e9;
 }
+
+section {
+  margin-bottom: 2rem;
+}

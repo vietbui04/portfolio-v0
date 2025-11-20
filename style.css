@@ -8,6 +8,8 @@ body {
 header,
 main {
   padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 header {
@@ -15,8 +17,7 @@ header {
   color: white;
   text-align: center;
 }
-
-p {
+s p {
   color: #0ea5e9;
 }
 

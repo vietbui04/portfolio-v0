@@ -24,3 +24,8 @@ s p {
 section {
   margin-bottom: 2rem;
 }
+
+#projects,
+#skills {
+  margin-top: 2rem;
+}
